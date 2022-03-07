@@ -1,1 +1,1 @@
-Is all about devops
+Commands on redirecting
